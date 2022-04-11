@@ -1,0 +1,7 @@
+SCAS5600	KEYWORD1
+
+ReadRawAngle	KEYWORD2
+correctAngle	KEYWORD2
+checkQuadrant	KEYWORD2
+checkMagnetPresence	KEYWORD2
+getMagnitude	KEYWORD2
